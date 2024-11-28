@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Parking Mayhem**
 
+- 👨‍💻 All of my projects are available at [https://abhishekluthra.ca/](https://abhishekluthra.ca/)
+
+- 📫 How to reach me **abhishekluthra2005@gmail.com**
+
+- 📄 Know about my experiences [https://abhishekluthra.ca/assets/ResumeNewCompSci.pdf](https://abhishekluthra.ca/assets/ResumeNewCompSci.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek luthra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek luthra" height="30" width="40" /></a>
