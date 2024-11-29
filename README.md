@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey, I'm Abhishek 👋</h1>
+<!--<h1 align="center">Hey, I'm Abhishek 👋</h1>-->
 
-<!-- Banner -->
+<img src="https://raw.githubusercontent.com/epicjim1/epicjim1/master/Github Banner.jpg" alt="banner that says Abhishek Luthra - game / software developer">
 
 <!--
 <h3 align="center">A passionate game developer from Canada</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epicjim1&label=Profile%20views&color=0e75b6&style=flat" alt="epicjim1" /> </p> 
 -->
+
+## Abhishek Luthra
 
 - 🔭 I’m currently working on **Parking Mayhem**, a game where you perfect your parking skills
 
